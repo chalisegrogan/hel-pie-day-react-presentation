@@ -9,9 +9,9 @@ The Spectacle core API is available in the [Spectacle Docs](https://github.com/F
 
 1. Clone this repo
 
-```sh
+   ```sh
    git clone https://github.com/chalisegrogan/hel-pie-day-react-presentation.git
-```
+   ```
 
 2. Install dependencies
 
