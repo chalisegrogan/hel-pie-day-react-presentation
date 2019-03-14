@@ -1,11 +1,5 @@
-# Spectacle Boilerplate
-
-## Contents
-
-- [Reference](#reference)
-- [Getting Started](#getting-started)
-- [Tutorial](#tutorial)
-- [Build & Deployment](#build-deployment)
+# HEL Architecture Review
+Presentation given on March 14, 2019. Or, pie day! 🥧
 
 ## Reference
 
@@ -36,21 +30,3 @@ The Spectacle core API is available in the [Spectacle Docs](https://github.com/F
    ```sh
    yarn start
    ```
-
-## Tutorial
-
-If want you a step-by-step guide for getting started with Spectacle, a basic tutorial is available [here](https://github.com/FormidableLabs/spectacle/blob/master/docs/tutorial.md).
-
-## Build & Deployment
-
-Building the dist version of the project is as easy as running
-
-```sh
-yarn build
-```
-
-If you want to deploy the slideshow to surge, run
-
-```sh
-yarn deploy
-```
