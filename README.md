@@ -7,25 +7,19 @@ The Spectacle core API is available in the [Spectacle Docs](https://github.com/F
 
 ## Getting Started
 
-1. Download the boilerplate
+1. Clone this repo
 
-   ```sh
-   git clone git@github.com:FormidableLabs/spectacle-boilerplate.git
-   ```
+```sh
+   git clone https://github.com/chalisegrogan/hel-pie-day-react-presentation.git
+```
 
-2. Remove existing version control
-
-   ```sh
-   rm -R .git
-   ```
-
-3. Install dependencies
+2. Install dependencies
 
    ```sh
    yarn install
    ```
 
-4. Start the webpack server. The server will run at [`localhost:3000`](http://localhost:3000).
+3. Start the webpack server. The server will run at [`localhost:3000`](http://localhost:3000).
 
    ```sh
    yarn start
