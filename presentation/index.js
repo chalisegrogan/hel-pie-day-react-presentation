@@ -74,8 +74,11 @@ export default class Presentation extends React.Component {
           <Heading size={1} caps lineHeight={1} textColor="tertiary">
             <Image src={images.reactLogo} width={68} />React<Image src={images.reactLogo} height={68} />
           </Heading>
-          <Heading size={2} fit lineHeight={1} textColor="secondary">
-            for HEL Architecture Review
+          <Heading size={6} fit lineHeight={1} textColor="secondary">
+            Specifically, Rendering Optimizations (aka "Why You Should Build Smaller Components")
+          </Heading>
+          <Heading size={4} fit lineHeight={1} textColor="secondary">
+            Front-End Symposium 7/8/19
           </Heading>
         </Slide>
         <Slide bgColor="secondary">
